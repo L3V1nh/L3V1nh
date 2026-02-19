@@ -78,12 +78,6 @@
   />
 </a>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=L3V1nh&show_icons=true&theme=blue-green" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=L3V1nh&layout=compact&theme=blue-green" />
-</p>
-
-
 
 ---
 
