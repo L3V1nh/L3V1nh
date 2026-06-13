@@ -79,10 +79,5 @@
 </a>
 
 
----
-
-<div align="center">
-  <img src="animated-koi-fish.gif" width="100%" />
-</div>
 
 
