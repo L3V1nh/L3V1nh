@@ -74,6 +74,10 @@
   </a>
 </p>
 
+## Top Repositories
+### Verilog/SystemVerilog
+[![My Repo](https://github-readme-stats.vercel.app/api/pin/?username=L3V1nh&repo=VeriRISC&theme=radical)](https://github.com/L3V1nh/VeriRISC)
+
 ---
 ## My 🐢
 
