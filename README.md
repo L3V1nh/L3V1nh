@@ -1,4 +1,5 @@
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Georgia&pause=1000&center=true&width=435&lines=Whatever+happens%2C+happens)](https://git.io/typing-svg)
+## 🛠️ Languages & Tools
 <p align="left">
   <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" 
@@ -65,6 +66,12 @@
        alt="x64dbg" 
        title="x64dbg" />
 </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/L3V1nh">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=L3V1nh&langs_count=8&layout=compact&theme=tokyonight&border_radius=10" alt="Top Languages" />
+  </a>
 </p>
 
 ---
