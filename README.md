@@ -77,6 +77,13 @@
 ## Top Repositories
 ### Verilog/SystemVerilog
 [![My Repo](https://github-readme-stats.vercel.app/api/pin/?username=L3V1nh&repo=VeriRISC&theme=radical)](https://github.com/L3V1nh/VeriRISC)
+[![My Repo](https://github-readme-stats.vercel.app/api/pin/?username=L3V1nh&repo=systolic_5x5_multiplier&theme=radical)]((https://github.com/L3V1nh/systolic_5x5_multiplier))
+[![My Repo](https://github-readme-stats.vercel.app/api/pin/?username=L3V1nh&repo=float32-adder&theme=radical)](https://github.com/L3V1nh/float32-adder)
+[![My Repo](https://github-readme-stats.vercel.app/api/pin/?username=L3V1nh&repo=I2C-master&theme=radical)](https://github.com/L3V1nh/I2C-master)
+### Linux Rice 🌾
+[![My Repo](https://github-readme-stats.vercel.app/api/pin/?username=L3V1nh&repo=dotfiles-gundam&theme=radical)](https://github.com/L3V1nh/dotfiles-gundam)
+[![My Repo](https://github-readme-stats.vercel.app/api/pin/?username=L3V1nh&repo=hyprgelion-dotfiles&theme=radical)](https://github.com/L3V1nh/hyprgelion-dotfiles)
+[![My Repo](https://github-readme-stats.vercel.app/api/pin/?username=L3V1nh&repo=MacOS-Custom-Theme-Ubuntu&theme=radical)](https://github.com/L3V1nh/MacOS-Custom-Theme-Ubuntu)
 
 ---
 ## My 🐢
