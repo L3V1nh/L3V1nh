@@ -77,7 +77,7 @@
 ## Top Repositories
 ### Verilog/SystemVerilog
 [![My Repo](https://github-readme-stats.vercel.app/api/pin/?username=L3V1nh&repo=VeriRISC&theme=radical)](https://github.com/L3V1nh/VeriRISC)
-[![My Repo](https://github-readme-stats.vercel.app/api/pin/?username=L3V1nh&repo=systolic_5x5_multiplier&theme=radical)]((https://github.com/L3V1nh/systolic_5x5_multiplier))
+[![My Repo](https://github-readme-stats.vercel.app/api/pin/?username=L3V1nh&repo=systolic-array&theme=radical)]((https://github.com/L3V1nh/systolic-array))
 [![My Repo](https://github-readme-stats.vercel.app/api/pin/?username=L3V1nh&repo=float32-adder&theme=radical)](https://github.com/L3V1nh/float32-adder)
 [![My Repo](https://github-readme-stats.vercel.app/api/pin/?username=L3V1nh&repo=I2C-master&theme=radical)](https://github.com/L3V1nh/I2C-master)
 ### Linux Rice 🌾
